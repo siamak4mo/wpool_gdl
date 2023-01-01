@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/siamak4mo/wpool"
+	wpool "github.com/siamak4mo/wpool_gdl"
 )
 
 func do(ID int) bool {
