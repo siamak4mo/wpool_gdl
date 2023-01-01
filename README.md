@@ -6,7 +6,8 @@ worker pool implementation in golang
 2. [mrtc] max retrying count
 
 ### usage:
-run `go get github.com/siamak4mo/wpool_gdl` and `go install github.com/siamak4mo/wpool_gdl` to get package.
+run `go get github.com/siamak4mo/wpool_gdl` and `go install github.com/siamak4mo/wpool_gdl` to get the package.
+
 like `example.go` use this import:
 ```
 import (
